@@ -3,6 +3,7 @@
 Un proyecto base de ecommerce construido con **React**, **TypeScript**, y **Vite**, utilizando **useReducer** para manejar el estado global del carrito de compras.
 
 ---
+![Vista previa del ecommerce](./image.png)
 
 ## 🚀 Tecnologías utilizadas
 
